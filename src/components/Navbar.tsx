@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Button } from "@/components/ui/button"; // We'll create this or use a simple HTML button for now
+
 import { TrendingUp } from "lucide-react";
 
 export function Navbar() {
